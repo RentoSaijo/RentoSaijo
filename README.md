@@ -1,4 +1,4 @@
-### Projects
+### 💻 | Projects
 #### [nhlscraper](https://github.com/RentoSaijo/nhlscraper)
 - Developed R-package to scrape NHL data from `NHL` and `ESPN` APIs w/ `usethis` & `devtools`
 - Reverse-engineered undocumented endpoints w/ `Mitmproxy`
