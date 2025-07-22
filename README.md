@@ -8,3 +8,5 @@ Rento Saijo, now a sophomore at Connecticut College pursuing his career in sport
 - Reverse-engineered 50+ undocumented endpoints w/ `mitmproxy`
 - Documented w/ `roxygen2` & maintained `pkgdown` [website](https://rentosaijo.github.io/nhlscraper/) for CRAN approval
 - Indicted to `SportsAnalytics` CRAN Task View & has 350+ downloads
+
+To be updated...
