@@ -12,4 +12,4 @@ Rento Saijo, now a sophomore at Connecticut College pursuing his career in sport
 - Inducted to [SportsAnalytics](https://CRAN.R-project.org/view=SportsAnalytics) CRAN Task View & has 600+ downloads
 
 ### 🏒 [NHLxG](https://github.com/RentoSaijo/NHLxG) | R/R Studio
-- Developed 20+ AI models for projecting expected-goals
+- Developed 30+ AI models for projecting expected-goals
