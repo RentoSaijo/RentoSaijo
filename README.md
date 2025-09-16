@@ -9,7 +9,7 @@ Rento Saijo, now a sophomore at Connecticut College pursuing his career in sport
 - Developed package to scrape data from `NHL` and `ESPN` APIs w/ `devtools` & `usethis`
 - Reverse-engineered 50+ undocumented endpoints w/ `mitmproxy` & decoded `client.bundle.js`
 - Documented w/ `roxygen2` & maintained `pkgdown` [website](https://rentosaijo.github.io/nhlscraper/) for CRAN approval
-- Inducted to [SportsAnalytics](https://CRAN.R-project.org/view=SportsAnalytics) CRAN Task View & has 600+ downloads
+- Inducted to [SportsAnalytics](https://CRAN.R-project.org/view=SportsAnalytics) CRAN Task View & has ~1000 downloads
 
 ### 🏒 [NHLxG](https://github.com/RentoSaijo/NHLxG) | R/R Studio
 - Developed 30+ AI models for projecting expected-goals
