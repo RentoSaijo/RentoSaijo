@@ -1,6 +1,6 @@
 ## About
-### ✉️ [Email](mailto:rentosaijo0527@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rentosaijo/) | [YouTube](https://www.youtube.com/@RentoSaijo)
-Rento Saijo, now a sophomore at Connecticut College pursuing his career in sports analytics, spent his G9-G12 years at Cranbrook Kingswood to realize his high school dream of balancing both academics and competitive ice hockey. Upon winning the State Championship and discovering his passion in data science, he now looks to advance a field in the intersection of them, actively building meaningful connections and seeking excellence in all facets.
+### ✉️ [Email](mailto:rentosaijo0527@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rentosaijo/) | [X](https://x.com/RentoSaijo) | [YouTube](https://www.youtube.com/@RentoSaijo)
+Rento Saijo is a Statistics & Data Science and Computer Science student at Connecticut College focused on sports analytics, with a hockey-first lens. He builds end-to-end projects that turn messy sports data into decision-ready insights; developing data pipelines and QA workflows, training and evaluating probabilistic models, and shipping results through interactive dashboards (Streamlit/D3) with clear documentation.
 
 ## Projects
 ### 🏒 [nhlscraper](https://github.com/RentoSaijo/nhlscraper) | R / Browser Inspection
