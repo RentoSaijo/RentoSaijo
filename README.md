@@ -1,8 +1,10 @@
 ## About
+
 ### ✉️ [Email](mailto:rentosaijo0527@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rentosaijo/) | [X](https://x.com/RentoSaijo) | [YouTube](https://www.youtube.com/@RentoSaijo)
 Rento Saijo is a Statistics & Data Science and Computer Science student at Connecticut College focused on sports analytics, with a hockey-first lens. He builds end-to-end projects that turn messy sports data into decision-ready insights; developing data pipelines and QA workflows, training and evaluating probabilistic models, and shipping results through interactive dashboards (Streamlit/D3) with clear documentation.
 
 ## Projects
+
 ### 🏒 [nhlscraper](https://github.com/RentoSaijo/nhlscraper) | R / C / Developer Tools
 nhlscraper is an R [package](https://cran.r-project.org/package=nhlscraperhttps://cran.r-project.org/package=nhlscraper) I built to make NHL data easier to access and analyze with a lightweight, reproducible, and well-documented workflow. It scrapes, cleans, and visualizes data from the NHL and ESPN APIs, and I expanded coverage by reverse-engineering 50+ NHL EDGE endpoints through developer tools. The package has been inducted into the [SportsAnalytics](https://cran.r-project.org/web/views/SportsAnalytics.html#:~:text=nhlscraper%20wraps%20endpoints%20from%20the%20National%20Hockey%20League%20and%20ESPN.%20It%20includes%20play%2Dby%2Dplay%20logs%20and%20odds%20from%20sports%20books.) CRAN Task View, surpassed 2,700 downloads, and is supported by a pkgdown [documentation](https://rentosaijo.github.io/nhlscraper/) and [tutorials](https://www.youtube.com/watch?v=CUXzeuXJCPs&list=PLm6QfVhxtMtQkNIgYIemtPBJHwElN9c_s). It has since been referenced in academic papers ([example](https://github.com/anna-wadlow/MATH261A-Project-2/blob/df307bb6e7aca96b46bb5e9dcfdfe079822480c0/MATH261A-Project_2.pdf)), adopted in college course materials ([example](https://github.com/atharvvani464/SDS375/blob/01dd2b752adb8da1f4b041d50d4f2a3e094218b9/assignment2.pdf)), and shared across statistics blogs ([example](https://www.voronoiapp.com/sports/NHL-Standings-using-R---data-retrieved-with-the-R-package-nhlscraper-Saijo-2026-7604#comments)) worldwide.
 
@@ -12,6 +14,7 @@ Rento’s Rink is my ongoing hockey analytics “lab,” built as an interactive
 ### 🏀 [NBAxP](https://github.com/RentoSaijo/rentosrink) | JavaScript / R
 NBAxP is a project where I turned raw NBA shot data into an interactive “shot value map” for each team. I scraped and cleaned ~700,000 shots, built an [expected-points model](https://rentosaijo.github.io/NBAxP/README.html) using shot context, and visualized results by court region in a D3-powered [dashboard](https://rentosaijo.github.io/NBAxP/) with interactive filters and hover tooltips for team-to-team comparisons.
 
-### Competitions
+## Competitions
+
 ### 🏒 [HALO Hackathon 2026](https://github.com/RentoSaijo/HALO2026) | R
 This submission focuses on a coaching-facing question in established 5v4 offensive-zone power-play play: how can we quantify quality beyond xG by measuring whether a unit creates and actually attacks exploitable mismatches? To answer that, I engineered Attempted Exploited Mismatch per State (AEM/state), a metric that combines threat modeling for puck-carriers and non-carriers with coverage geometry and a 1.5-second decision window. I then validated the metric against team outcomes, showing that AEM/state remained positively associated with PP goals/60 and added explanatory value beyond xG/60 alone. The project also examined how those mismatches are created by analyzing short puck-movement progressions, finding that most lift came from concise 2–3 event chains rather than long, harmless circulation.
