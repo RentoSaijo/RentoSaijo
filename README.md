@@ -1,7 +1,7 @@
 ## About
 
 ### ✉️ [Email](mailto:rentosaijo0527@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rentosaijo/) | [X](https://x.com/RentoSaijo) | [YouTube](https://www.youtube.com/@RentoSaijo)
-Rento Saijo is a Statistics & Data Science and Computer Science student at Connecticut College focused on sports analytics, with a hockey-first lens. He builds end-to-end projects that turn messy sports data into decision-ready insights; developing data pipelines and QA workflows, training and evaluating probabilistic models, and shipping results through interactive dashboards (Streamlit/D3) with clear documentation.
+I’m a Statistics & Data Science and Computer Science student at Connecticut College and a sports analytics builder focused on turning raw data into tools teams can actually use. My work combines statistical modeling, software engineering, and on-ice perspective: I’m the author/maintainer of nhlscraper, an R package for collecting, cleaning, modeling, and visualizing NHL/ESPN data; I’ve built expected-goals models, interactive dashboards, and D3 visualizations to study shot quality, player value, and tactical decision-making; and I’ve applied that toolkit professionally as a Data Analyst Intern at HockeySkytte. I’m especially interested in hockey data infrastructure, probabilistic modeling, player evaluation, and decision tools that help move analysis from “what happened?” to “what should we do next?”
 
 ## Projects
 
