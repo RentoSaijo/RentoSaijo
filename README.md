@@ -16,5 +16,9 @@ NBAxP is a project where I turned raw NBA shot data into an interactive “shot 
 
 ## Competitions
 
+### 🏒 [CMSAC Reproducible Research Competition](https://github.com/RentoSaijo/FFvFF) | R
+
+I built a fully reproducible R pipeline to study whether attacking line changes after an opponent icing create immediate offense. Using public play-by-play, event-lineup, roster, and shift data, I reconstructed 19,590 eligible NHL icings and emulated target trials with propensity-score matching. Among 1,124 matched wholesale-change pairs, replacing all five skaters produced an estimated 2.22-percentage-point increase in 10-second attacking-attempt probability (95% CI: −1.55 to 5.99); a separate 3,628-pair analysis of any change estimated a 2.12-point increase (95% CI: 0.10 to 4.14), though that evidence weakened under team-season dependence.
+
 ### 🏒 [HALO Hackathon 2026](https://github.com/RentoSaijo/HALO2026) | R
 I built an end-to-end R pipeline combining AHL player-tracking data with XGBoost and LightGBM models to analyze established 5-on-4 offensive-zone play. I developed Attempted Exploitable Mismatch per State (AEM/state), a coaching-focused metric that measures whether power-play units recognize and attack high-value openings. Across 32 teams, AEM/state correlated with scoring at r = 0.442 and increased team-level explanatory R² from 0.281 to 0.346 beyond xG alone, while revealing actionable puck-movement patterns associated with creating mismatches.
