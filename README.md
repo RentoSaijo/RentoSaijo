@@ -16,7 +16,7 @@ NBAxP is a project where I turned raw NBA shot data into an interactive “shot 
 
 ## Competitions
 
-### 🏒 [CMSAC Reproducible Research Competition](https://github.com/RentoSaijo/FFvFF) | R
+### 🏒 [CMSAC Reproducible Research Competition 2026](https://github.com/RentoSaijo/FFvFF) | R
 
 An NHL icing can trap five tired defenders on the ice while giving the attacking coach a choice: keep the current unit or send out fresh skaters. I reconstructed 19,590 icing situations from public play-by-play, lineup, roster, and shift data, then used matched target-trial emulations to test whether changing personnel creates a shot attempt within 10 seconds. Replacing all five skaters produced an estimated 2.22-percentage-point advantage across 1,124 matched pairs (95% CI: −1.55 to 5.99), while making any change produced a 2.12-point estimate across 3,628 pairs (95% CI: 0.10 to 4.14), although the latter weakened after accounting for team-season dependence.
 
