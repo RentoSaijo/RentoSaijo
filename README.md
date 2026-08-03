@@ -1,7 +1,14 @@
 ## About
 
 ### ✉️ [Email](mailto:rentosaijo0527@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rentosaijo/) | [X](https://x.com/RentoSaijo) | [YouTube](https://www.youtube.com/@RentoSaijo)
-I’m a Statistics & Data Science and Computer Science student at Connecticut College and a sports analytics builder focused on turning raw data into tools teams can actually use. My work combines statistical modeling, software engineering, and on-ice perspective: I’m the author/maintainer of nhlscraper, an R package for collecting, cleaning, modeling, and visualizing NHL/ESPN data; I’ve built expected-goals models, interactive dashboards, and D3 visualizations to study shot quality, player value, and tactical decision-making; and I’ve applied that toolkit professionally as a Stats R&D Intern at NHL. I’m especially interested in hockey data infrastructure, probabilistic modeling, player evaluation, and decision tools that help move analysis from “what happened?” to “what should we do next?”
+I build hockey analytics from the data layer up—open-source infrastructure first, then statistical models and reproducible research. I created nhlscraper, a CRAN R package that has surpassed 5,000 downloads and makes 125+ NHL/ESPN API endpoints accessible, including 50+ undocumented NHL EDGE endpoints I reverse-engineered. While studying Statistics & Data Science and Computer Science at Connecticut College, I’ve applied that same research-engineering approach in NHL Stats R&D and will next bring it to Clear Sight Analytics as a 2026–27 Analytics Engineer.
+
+## Experience
+
+### 🏒 Analytics Engineer @ [Clear Sight Analytics](https://www.csahockey.com) | R / SQL / Power BI
+
+### 🏒 Intern, Stats R&D @ [National Hockey League](https://www.nhl.com) | R / SQL / JavaScript
+Co-developed a 71-value puck-touch taxonomy spanning 25 actions, 9 touch types, and 37 outcomes, testing 15 V1-to-V2 revisions and documenting definitions, clarifications, and standards for future trackers and auditors. Engineered an R Shiny/JavaScript tracker app backed by SQLite and Parquet with 100+ row- and sequence-level validation rules, outcome inference, and synchronized visualizers; then, led 3 user training sessions for the app. Deployed the system to complete ground-truth tracking for 5 NHL games, tripling the previous workflow’s throughput.
 
 ## Projects
 
