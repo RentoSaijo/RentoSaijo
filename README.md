@@ -9,7 +9,6 @@ I build hockey analytics from the data layer up—open-source infrastructure fir
 To be added.
 
 ### 🏒 Intern, Stats R&D @ [National Hockey League](https://www.nhl.com) | R / SQL / JavaScript
-Co-developed a 71-value puck-touch taxonomy spanning 25 actions, 9 touch types, and 37 outcomes, testing 15 V1-to-V2 revisions and documenting definitions, clarifications, and standards for future trackers and auditors. Engineered an R Shiny/JavaScript tracker app backed by SQLite and Parquet with 100+ row- and sequence-level validation rules, outcome inference, and synchronized visualizers; then, led 3 user training sessions for the app. Deployed the system to complete ground-truth tracking for 5 NHL games, tripling the previous workflow’s throughput.
 
 ## Projects
 
