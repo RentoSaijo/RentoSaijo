@@ -9,6 +9,7 @@ I build hockey analytics from the data layer up—open-source infrastructure fir
 To be added.
 
 ### 🏒 Intern, Stats R&D @ [National Hockey League](https://www.nhl.com) | R / SQL / JavaScript
+To be added.
 
 ## Projects
 
