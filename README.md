@@ -1,7 +1,7 @@
 ## About
 
 ### ✉️ [Email](mailto:rentosaijo0527@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rentosaijo/) | [X](https://x.com/RentoSaijo) | [YouTube](https://www.youtube.com/@RentoSaijo)
-I build hockey analytics from the data layer up—open-source infrastructure first, then statistical models and reproducible research. I created nhlscraper, a CRAN R package that has surpassed 5,000 downloads and makes 125+ NHL/ESPN API endpoints accessible, including 50+ undocumented NHL EDGE endpoints I reverse-engineered. While studying Statistics & Data Science and Computer Science at Connecticut College, I’ve applied that same research-engineering approach in NHL Stats R&D and will next bring it to Clear Sight Analytics as a 2026–27 Analytics Engineer.
+I build hockey analytics from the data layer up. I created nhlscraper, a CRAN R package with 5,000+ downloads covering 125+ NHL/ESPN endpoints. During my NHL Stats R&D internship, I helped refine a 71-value puck-touch taxonomy and built an R Shiny/JavaScript tracking system with 100+ validation rules. Across five NHL games, it tripled tracking throughput and prevented roughly 500 detectable data-entry errors per game. I study Statistics & Data Science and Computer Science at Connecticut College and am joining Clear Sight Analytics as a 2026–27 Analytics Engineer.
 
 ## Experience
 
