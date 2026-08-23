@@ -24,9 +24,8 @@ Minecraft: Bedrock Edition stores villager trading as nested random-generation r
 
 ## Competitions
 
-### 🏒 [CMSAC Reproducible Research Competition 2026](https://github.com/RentoSaijo/FFvFF) | R
-
-An NHL icing can trap five tired defenders on the ice while giving the attacking coach a choice: keep the current unit or send out fresh skaters. I reconstructed 19,590 icing situations from public play-by-play, lineup, roster, and shift data, then used matched target-trial emulations to test whether changing personnel creates a shot attempt within 10 seconds. Replacing all five skaters produced an estimated 2.22-percentage-point advantage across 1,124 matched pairs (95% CI: −1.55 to 5.99), while making any change produced a 2.12-point estimate across 3,628 pairs (95% CI: 0.10 to 4.14), although the latter weakened after accounting for team-season dependence.
+### 🏒 [CMSAC Reproducible Research Competition 2026](https://github.com/RentoSaijo/CSAx) | R
+To be added.
 
 ### 🏒 [HALO Hackathon 2026](https://github.com/RentoSaijo/HALO2026) | R
 I built an end-to-end R pipeline combining AHL player-tracking data with XGBoost and LightGBM models to analyze established 5-on-4 offensive-zone play. I developed Attempted Exploitable Mismatch per State (AEM/state), a coaching-focused metric that measures whether power-play units recognize and attack high-value openings. Across 32 teams, AEM/state correlated with scoring at r = 0.442 and increased team-level explanatory R² from 0.281 to 0.346 beyond xG alone, while revealing actionable puck-movement patterns associated with creating mismatches.
