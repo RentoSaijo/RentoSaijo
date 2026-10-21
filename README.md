@@ -19,7 +19,7 @@ Created and maintain nhlscraper, an [R package](https://rentosaijo.github.io/nhl
 ### ⛏️ [bedrocktrader](https://github.com/RentoSaijo/bedrocktrader) | R
 Created bedrocktrader, an [R package](https://rentosaijo.github.io/bedrocktrader/) for analyzing villager trading in Minecraft: Bedrock Edition, where nested random-generation rules determine which items and prices players are offered. Translated Mojang’s pinned source tables into three probability-aware views covering 281 trade combinations, 2,787 item specifications, and 30,592 exact price-and-item offers across 13 professions. Derived an [analytical engine](https://github.com/RentoSaijo/bedrocktrader/blob/main/other/math.pdf) that accounts for trade selection, repeated source entries, biome and dimension restrictions, emerald prices, and complete enchantment sets without simulation; for example, the package calculates a 2.79% chance that a fully unlocked librarian offers Mending for at most 26 emeralds.
 
-## Competitions
+## Conferences
 
 ### 🏒 [CMSAC Reproducible Research Competition 2026](https://github.com/RentoSaijo/CSAx) | R
 Co-developed calibrated size above expected (CSAx), a frame-relative measure of how “big” NHL forwards play, using 10 contact and interior-shot features across 1,763 forward-seasons. Among forwards in comparable roles, one standard deviation higher CSAx was associated with 22% higher adjusted odds of logging at least 300 NHL minutes the following season. The [competition paper](https://github.com/RentoSaijo/CSAx/blob/main/reports/paper_cmsacrrc/paper_cmsacrrc.pdf) also examines scouting reports, contracts, and playoff availability.
