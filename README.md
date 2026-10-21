@@ -1,7 +1,7 @@
 ## About
 
 ### ✉️ [Email](mailto:rentosaijo0527@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rentosaijo/) | [X](https://x.com/RentoSaijo) | [YouTube](https://www.youtube.com/@RentoSaijo)
-I build hockey analytics from the data layer up. I created nhlscraper, a CRAN R package with 5,000+ downloads covering 125+ NHL/ESPN endpoints. During my NHL Stats R&D internship, I helped refine a 71-value puck-touch taxonomy and built an R Shiny/JavaScript tracking system with 100+ validation rules; across 5 NHL games, it tripled tracking throughput and prevented roughly 500 detectable data-entry errors per game. I study Statistics & Data Science and Computer Science at Connecticut College and am joining Clear Sight Analytics as a 2026–27 Analytics Engineer.
+I build hockey analytics from the data layer up. I created nhlscraper, a CRAN R package with 6,000+ downloads covering 125+ NHL/ESPN endpoints. During my NHL Stats R&D internship, I helped refine a 71-value puck-touch taxonomy and built an R Shiny/JavaScript tracking system with 100+ validation rules; across 5 NHL games, it tripled tracking throughput and prevented roughly 500 detectable data-entry errors per game. I study Statistics & Data Science and Computer Science at Connecticut College and am joining Clear Sight Analytics as a 2026–27 Analytics Engineer.
 
 ## Experience
 
@@ -14,7 +14,7 @@ Co-improved a 71-value puck-touch taxonomy spanning 25 actions, 9 touch types, a
 ## Projects
 
 ### 🏒 [nhlscraper](https://github.com/RentoSaijo/nhlscraper) | R / C / Developer Tools
-Created and maintain nhlscraper, an [R package](https://rentosaijo.github.io/nhlscraper/) that makes NHL and ESPN data more accessible by scraping, cleaning, and analyzing data from 125+ API endpoints. Since publishing it on [CRAN](https://cran.r-project.org/package=nhlscraper), the package has surpassed 5,000 downloads, been added to the [SportsAnalytics CRAN Task View](https://cran.r-project.org/view=SportsAnalytics), and appeared in academic papers and course materials. Reverse-engineered more than 50 undocumented NHL EDGE endpoints and built native C routines that accelerate play-by-play and shift-processing workflows by up to 167× while preserving reliable R fallbacks.
+Created and maintain nhlscraper, an [R package](https://rentosaijo.github.io/nhlscraper/) that makes NHL and ESPN data more accessible by scraping, cleaning, and analyzing data from 125+ API endpoints. Since publishing it on [CRAN](https://cran.r-project.org/package=nhlscraper), the package has surpassed 6,000 downloads, been added to the [SportsAnalytics CRAN Task View](https://cran.r-project.org/view=SportsAnalytics), and appeared in academic papers and course materials. Reverse-engineered more than 50 undocumented NHL EDGE endpoints and built native C routines that accelerate play-by-play and shift-processing workflows by up to 167× while preserving reliable R fallbacks.
 
 ### 🏒 [nhlplotter](https://github.com/RentoSaijo/nhlplotter) | R
 Created nhlplotter, a companion [R package](https://rentosaijo.github.io/nhlplotter/) to nhlscraper for visualizing NHL data with ggplot2. Built regulation NHL rink layouts with full-rink, half-rink, and zone views in horizontal or vertical orientations, allowing users to overlay play-by-play and replay tracking data in a shared coordinate system.
