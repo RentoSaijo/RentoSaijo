@@ -17,14 +17,14 @@ Co-improved a 71-value puck-touch taxonomy spanning 25 actions, 9 touch types, a
 Created and maintain nhlscraper, an [R package](https://rentosaijo.github.io/nhlscraper/) that makes NHL and ESPN data more accessible by scraping, cleaning, and analyzing data from 125+ API endpoints. Since publishing it on [CRAN](https://cran.r-project.org/package=nhlscraper), the package has surpassed 5,000 downloads, been added to the [SportsAnalytics CRAN Task View](https://cran.r-project.org/view=SportsAnalytics), and appeared in academic papers and course materials. Reverse-engineered more than 50 undocumented NHL EDGE endpoints and built native C routines that accelerate play-by-play and shift-processing workflows by up to 167× while preserving reliable R fallbacks.
 
 ### 🏒 [nhlplotter](https://github.com/RentoSaijo/nhlplotter) | R
-Created nhlplotter, a companion [R package](https://rentosaijo.github.io/nhlplotter/) to nhlscraper for turning NHL data into custom and preset visualizations.
+Created nhlplotter, a companion [R package](https://rentosaijo.github.io/nhlplotter/) to nhlscraper for visualizing NHL data with ggplot2. Built regulation NHL rink layouts with full-rink, half-rink, and zone views in horizontal or vertical orientations, allowing users to overlay play-by-play and replay tracking data in a shared coordinate system.
 
 ### ⛏️ [bedrocktrader](https://github.com/RentoSaijo/bedrocktrader) | R
 Created bedrocktrader, an [R package](https://rentosaijo.github.io/bedrocktrader/) for analyzing villager trading in Minecraft: Bedrock Edition, where nested random-generation rules determine which items and prices players are offered. Translated Mojang’s pinned source tables into three probability-aware views covering 281 trade combinations, 2,787 item specifications, and 30,592 exact price-and-item offers across 13 professions. Derived an [analytical engine](https://github.com/RentoSaijo/bedrocktrader/blob/main/other/math.pdf) that accounts for trade selection, repeated source entries, biome and dimension restrictions, emerald prices, and complete enchantment sets without simulation; for example, the package calculates a 2.79% chance that a fully unlocked librarian offers Mending for at most 26 emeralds.
 
 ## Conferences
 
-### 🏒 [CSAS 2027: NHL Screen Assists](https://github.com/RentoSaijo/NHL_ScreenAssists) | R
+### 🏒 [CSAS 2027](https://github.com/RentoSaijo/NHL_ScreenAssists) | R
 Developed an R pipeline to estimate NHL screen assists from public goal-replay tracking, crediting teammates who obstruct the goalie’s view on scoring plays. Achieved 92.60% precision and 73.21% recall for conservative player attribution against independent Clear Sight Analytics annotations on the reserved 2025–26 evaluation set. Built an [interactive explorer](https://rentosaijo.github.io/NHL_ScreenAssists/) with player rankings, playing-time rates, and animated replays for every credited goal. The [full paper](https://rentosaijo.github.io/NHL_ScreenAssists/reports/paper.pdf) also examines screening’s association with scoring through a separate mixed-effects analysis.
 
 ### 🏒 [CMSAC Reproducible Research Competition 2026](https://github.com/RentoSaijo/CSAx) | R
