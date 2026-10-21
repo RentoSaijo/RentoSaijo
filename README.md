@@ -24,7 +24,7 @@ Created bedrocktrader, an [R package](https://rentosaijo.github.io/bedrocktrader
 
 ## Conferences
 
-### 🏒 [CSAS 2027](https://github.com/RentoSaijo/NHL_ScreenAssists) | R
+### 🏒 [CSAS 2027](https://github.com/RentoSaijo/NHL_ScreenAssists) | R / SQL
 Developed an R pipeline to estimate NHL screen assists from public goal-replay tracking, crediting teammates who obstruct the goalie’s view on scoring plays. Achieved 92.60% precision and 73.21% recall for conservative player attribution against independent Clear Sight Analytics annotations on the reserved 2025–26 evaluation set. Built an [interactive explorer](https://rentosaijo.github.io/NHL_ScreenAssists/) with player rankings, playing-time rates, and animated replays for every credited goal. The [full paper](https://rentosaijo.github.io/NHL_ScreenAssists/reports/paper.pdf) also examines screening’s association with scoring through a separate mixed-effects analysis.
 
 ### 🏒 [CMSAC Reproducible Research Competition 2026](https://github.com/RentoSaijo/CSAx) | R
